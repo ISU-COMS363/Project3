@@ -1,0 +1,7 @@
+Student Name :: Mentor Name :: GPA
+
+Tom Moody :: Richard Ellison :: 3.958979591836735
+Sameer Shah :: John Bracewell :: 3.88424778761062
+Merv Hughes :: Darren Lehmann :: 3.8778947368421055
+Martin Vasquez :: Seth Carney :: 3.8662500000000004
+Jim Slater :: Min Tuyet :: 3.8311111111111114
